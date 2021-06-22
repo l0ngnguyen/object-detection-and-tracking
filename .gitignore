@@ -1,4 +1,4 @@
-trained_model/
+trained_model/*.weights
 input/large_videos/
 
 # Byte-compiled / optimized / DLL files
